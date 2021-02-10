@@ -5,5 +5,7 @@ function uzd1(){
 function home(){
     window.location.replace("index.html");
 }
-
+function KF(){
+    window.location.replace("kristians.html");
+}
 
