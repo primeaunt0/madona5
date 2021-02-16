@@ -8,4 +8,6 @@ function home(){
 function KF(){
     window.location.replace("kristians.html");
 }
-
+function AG(){
+    window.location.replace("amanda.html");
+}
