@@ -11,3 +11,6 @@ function KF(){
 function AG(){
     window.location.replace("amanda.html");
 }
+function KB(){
+    window.location.replace("karina.html");
+}
